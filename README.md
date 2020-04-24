@@ -1,4 +1,4 @@
-# cpg-hasta-upgrade-nodes
+# Hasta upgrade - nodes
 
 ## Project summary
 | | |
