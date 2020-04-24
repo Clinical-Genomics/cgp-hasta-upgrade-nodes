@@ -33,4 +33,6 @@ Scilifelab IT
 | Task title | Issue | Persons involved |
 |-|-|-|
 | Arrange downtime with IT | [2](https://github.com/Clinical-Genomics/cpg-hasta-upgrade-nodes/issues/2) | PG, VW |
-
+| Install nodes | [3](https://github.com/Clinical-Genomics/cpg-hasta-upgrade-nodes/issues/3) | IT |
+| Communicate with CG | [4](https://github.com/Clinical-Genomics/cpg-hasta-upgrade-nodes/issues/4) | PG |
+| Inform customers | [5](https://github.com/Clinical-Genomics/cpg-hasta-upgrade-nodes/issues/5) | CG staff |
